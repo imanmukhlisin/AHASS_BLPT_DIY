@@ -20,8 +20,5 @@ AHASS_BLPT_DIY adalah proyek PHP untuk membangun sistem manajemen bengkel otomot
 3. Jalankan aplikasi di server lokal atau web hosting
 4. Akses melalui browser Anda
 
-### Kontribusi
-Kami menerima kontribusi dari komunitas. Silakan buat pull request atau laporkan issue jika menemukan bug.
-
 ### Lisensi
 Project ini dilisensikan di bawah MIT License.
